@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# blender (빌드 산출물 — 스크립트로 다시 만들 수 있음)
+/blender/output/
+*.blend1
